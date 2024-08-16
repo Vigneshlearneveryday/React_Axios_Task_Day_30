@@ -34,3 +34,7 @@
    ```
 
 4. **Open your browser and navigate to** http://localhost:5173 **to view the app.**
+5. ---
+
+6. Endpoint : https://rahulthathareporting.netlify.app/
+7. ---
